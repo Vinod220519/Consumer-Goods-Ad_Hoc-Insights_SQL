@@ -18,21 +18,7 @@ Data is sourced from a structured MySQL database schema gdb023
 4. **Sales Trends** – Month on month product sales trends, Percentage discounts given to customer.
 6. **Visulisation** - Used power bi for Visualisation used fetch quires concept for data import on power bi.
 
----
 
-## 🧠 Key SQL Queries Used
-
-* Calculate **monthly gross revenue** for a customer 
-* Summarize **aggregated monthly gross sales**
-* Classify **markets as Gold/Silver** based on sales volume
-* Identify **top markets by net sales**
-* Calculate **net invoice sales** after applying pre- and post-invoice discounts
-* Determine **top customers** in each market
-* Rank **top-selling products by quantity and revenue**
-* Generate **region-wise revenue breakdowns**
-* Create **forecast accuracy reports** per customer
-
----
 
 ## 📂 Dataset schema gdb023 and Tables Used 
 
