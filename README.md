@@ -46,3 +46,4 @@ Data is sourced from a structured MySQL database schema gdb023
 
 Live Dashboard Link:  (https://app.powerbi.com/groups/me/reports/9877a372-dd53-4309-beb4-cca463079630/9b55c170861d27c45d5d?experience=power-bi&clientSideAuth=0)
 
+Presentation Link:  https://drive.google.com/file/d/1IUNSjjmkJtdo0l99iMfbsdAG_xbZW8CT/view?usp=sharing
